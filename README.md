@@ -1,3 +1,4 @@
+Download exe file direct form versions sections named SafeNet v1.0.0.. if don't work (for your windows).
 # harassment-evidence-locker
 An offline, client-side digital evidence locker and legal case builder designed to help privacy-conscious users and harassment victims securely organize chat logs, preserve forensic integrity via SHA-256 hashing, and generate structured complaint dossiers for cybercrime authorities.
 # SafeNet: Secure Digital Evidence & Harassment Case Builder
